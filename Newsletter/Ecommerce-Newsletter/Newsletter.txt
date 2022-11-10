@@ -1,0 +1,37 @@
+{
+  "fechaEnvio": "30/10/2022",
+  "asunto": "PROMO 2X1",
+  "id": 0,
+  "correoReceptor": "triniutn@gmail.com",
+  "promocion": {
+    "Id": 10251,
+    "descripcion": "descripcion1",
+    "estado": 1,
+    "fechaInicio": "30/10/2022",
+    "fechaFinal": "10/07/2022"
+  }
+}{
+  "fechaEnvio": "30/10/2022",
+  "asunto": "PROMO 2X1",
+  "id": 0,
+  "correoReceptor": "trinitessio101@gmail.com",
+  "promocion": {
+    "Id": 10251,
+    "descripcion": "descripcion1",
+    "estado": 1,
+    "fechaInicio": "30/10/2022",
+    "fechaFinal": "10/07/2022"
+  }
+}{
+  "fechaEnvio": "30/10/2022",
+  "asunto": "PROMO 2X1",
+  "id": 0,
+  "correoReceptor": "Usuario3@gmail.com",
+  "promocion": {
+    "Id": 10251,
+    "descripcion": "descripcion1",
+    "estado": 1,
+    "fechaInicio": "30/10/2022",
+    "fechaFinal": "10/07/2022"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ID": 142880,
+  "nombre": "usuario2",
+  "apellido": "Perez",
+  "correo": "trinitessio101@gmail.com",
+  "aceptaNovedades": true
+}{
+  "ID": 154896,
+  "nombre": "usuario3",
+  "apellido": "Fernandez",
+  "correo": "Usuario3@gmail.com",
+  "aceptaNovedades": true
+}

@@ -1,0 +1,19 @@
+{
+  "Id": 10251,
+  "descripcion": "ihiuhu",
+  "estado": 1,
+  "fechaInicio": "03/11/2022",
+  "fechaFinal": "10/07/2022"
+}{
+  "Id": 10661,
+  "descripcion": "descrpcion2",
+  "estado": 0,
+  "fechaInicio": "3/11/2022",
+  "fechaFinal": "15/07/2022"
+}{
+  "Id": 15968,
+  "descripcion": "descrpcion3",
+  "estado": 1,
+  "fechaInicio": "10/05/2022",
+  "fechaFinal": "19/09/2022"
+}
