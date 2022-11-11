@@ -1,0 +1,13 @@
+{
+  "ID": 1,
+  "nombre": "Trinidad",
+  "apellido": "Tessio",
+  "correo": "triniutn@gmail.com",
+  "aceptaNovedades": true
+}{
+  "ID": 2,
+  "nombre": "Nicolas",
+  "apellido": "Perez",
+  "correo": "NP24@gmail.com",
+  "aceptaNovedades": true
+}
